@@ -1,2 +1,0 @@
-# reactAppDisplayingDataOnSamePage
-Created with CodeSandbox
